@@ -1,5 +1,6 @@
 Python Projects:
-*Notice: To run the python files,  enter "python .py" in command line/unix.
+
+Notice: To run the python files,  enter "python .py" in command line/unix.
 1. ImageEditing: Place an image file in the folder and replace the image at line 506 to run the program.
 2. Othello_AI: Allows the user to face a computer in a game of othello.
 3. Railroard(TSP): Testing the algorithms of the Traveling Salesman Problem (TSP). Run Tsp.py for the full verison.
