@@ -53,7 +53,7 @@ def main():
          elif (nxtchar.lower()) in setB:
             display(transform(string,nxtchar))
          else:
-            print ("Enter a possible character/position please.")
+             print ("Enter a possible character/position please. (Format:RowCol)")
             
             
       while current=="O":

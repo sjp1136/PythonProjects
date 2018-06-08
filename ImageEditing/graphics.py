@@ -150,7 +150,7 @@ def detectCircle(image, threshold, threshold2):
             #slope=gy/gx
             
             pslope=round(-(gx/gy))
-            print (pslope)
+            #print (pslope)
             
             #print ("S"+str(slope))
             if pslope<0:
@@ -503,7 +503,7 @@ def makeline(image,edgelist):
    return sinegraph,copied
 
 def main():
-   file1 = "fractals.png"
+   file1 = "Profpic3.png"
    sub=cv2.imread(file1)
    listed=["1","2","3","4","5","6","7","8","9","0"]
    numbers=set(listed)
@@ -523,7 +523,6 @@ def main():
          sub=cv2.imread(file1)
    
    image= cv2.resize(sub, (0,0), fx=0.4, fy=0.4 ) 
-   print (image.shape[0])
    cv2.imshow('Image',image)
    k=0
    print ("Note: r= original, g= grayscale, b= blur, e= edge, o= canny, k=canny2, c=circle, l=line, esc= exit")
