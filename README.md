@@ -9,9 +9,11 @@ About the Python Projects:
 4. Sudoku(optimized): Runs a total of 128 Sudoku problems on the program, where the program (optimized) would attempt to solve them all as fast as possible. Change the code in lines 19-20 to change what range of problems the program should solve.
 
 ![sudoku2](https://user-images.githubusercontent.com/35988536/42947229-e1932fa6-8b3a-11e8-8bd7-deac8459514a.gif)
+
 5. Synchronization: Synchs all the dots to blink at the same time.
 
 ![synch](https://user-images.githubusercontent.com/35988536/42947238-ea173136-8b3a-11e8-8847-919cff21a6d3.gif)
+
 6. WordChallenger_AI: Allows the user to challenge the computer to a game of word completion, where the one who types the last letter of a word loses.
 7. WordLadder(BFS,DFS): Uses BFS, DFS, and other algorithms in order to execute Word Ladder. Modify lines 79 - 80 to check the word path from word to word. 
 
