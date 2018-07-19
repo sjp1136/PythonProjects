@@ -5,7 +5,6 @@ About the Python Projects:
 2. Othello_AI: Allows the user to face a computer in a game of othello.
 ![othello2](https://user-images.githubusercontent.com/35988536/42947052-72a7c00c-8b3a-11e8-8bfe-ff66ade75ffe.gif)
 3. Railroard(TSP): Testing the algorithms of the Traveling Salesman Problem (TSP). Run Tsp.py for the full verison.
-<img width="1147" alt="tsp" src="https://user-images.githubusercontent.com/35988536/42947131-a1e242fc-8b3a-11e8-91cd-79a0c1625df9.png">
 4. Sudoku(optimized): Runs a total of 128 Sudoku problems on the program, where the program (optimized) would attempt to solve them all as fast as possible. Change the code in lines 19-20 to change what range of problems the program should solve.
 
 ![sudoku2](https://user-images.githubusercontent.com/35988536/42947229-e1932fa6-8b3a-11e8-8bd7-deac8459514a.gif)
